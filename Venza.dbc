@@ -314,6 +314,10 @@ BO_ 897 HVAC: 8 XXX
  SG_ DESIRED_TEMP : 5|6@0+ (1,0) [0|63] "" XXX
 
 BO_ 898 HVAC2: 8 XXX
+ SG_ Temperature : 3|6@1+ (2,0) [0|37] "C" XXX
+
+BO_ 1592 DOORS: 8 XXX
+ SG_ ALLDOORLOCKS : 20|5@0+ (1,0) [0|15] "" XXX
 
 
 
